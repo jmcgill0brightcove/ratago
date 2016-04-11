@@ -3,8 +3,8 @@ package xslt
 import (
 	"container/list"
 	"fmt"
-	"github.com/jmcgill0brigthcove/gokogiri/xml"
-	"github.com/jmcgill0brigthcove/gokogiri/xpath"
+	"github.com/jmcgill0brightcove/gokogiri/xml"
+	"github.com/jmcgill0brightcove/gokogiri/xpath"
 	"log"
 	"path"
 	"strconv"

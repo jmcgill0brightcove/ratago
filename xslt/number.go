@@ -2,7 +2,7 @@ package xslt
 
 import (
 	"fmt"
-	"github.com/jmcgill0brigthcove/gokogiri/xml"
+	"github.com/jmcgill0brightcove/gokogiri/xml"
 	"strconv"
 	"strings"
 	"unicode"

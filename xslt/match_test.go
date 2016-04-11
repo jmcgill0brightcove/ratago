@@ -1,6 +1,6 @@
 package xslt
 
-//import "github.com/jmcgill0brigthcove/gokogiri/xml"
+//import "github.com/jmcgill0brightcove/gokogiri/xml"
 //import "unicode/utf8"
 import "testing"
 
