@@ -4,7 +4,7 @@ package main
 import (
 	"flag"
 	"fmt"
-	"github.com/ThomsonReutersEikon/gokogiri/xml"
+	"github.com/jmcgill0brigthcove/gokogiri/xml"
 	"github.com/jbowtie/ratago/xslt"
 	"os"
 )
