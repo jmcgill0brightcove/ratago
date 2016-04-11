@@ -67,7 +67,7 @@ func XsltSystemProperty(context xpath.VariableScope, args []interface{}) interfa
 	case "xsl:vendor":
 		return "John C Barstow"
 	case "xsl:vendor-url":
-		return "http://github.com/jbowtie/ratago"
+		return "http://github.com/jmcgill0brightcove/ratago"
 	default:
 		fmt.Println("EXEC system-property", args[0])
 	}
